@@ -1,8 +1,8 @@
 #include <iostream>
-using namespace std;
 
 
-int main()
-{
-  cout << "Hello, top-it!" << endl;
+int main() {
+
+ std:: cout << "Hello, top-it!\n";
+
 }
